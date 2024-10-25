@@ -1,4 +1,5 @@
 package Leetcode.Easy;
+import java.util.*;
 class Solution {
   public String mostCommonWord(String paragraph, String[] banned) {
       HashMap<String,Integer> map=new HashMap<>();
