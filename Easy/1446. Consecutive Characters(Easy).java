@@ -1,4 +1,4 @@
-package Leetcode.Easy;
+
 class Solution {
   public int maxPower(String s) {
     int count = 0;

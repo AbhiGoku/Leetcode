@@ -1,5 +1,3 @@
-package Leetcode.Easy;
-
 import java.util.Arrays;
 
 class Solution {

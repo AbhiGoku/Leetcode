@@ -1,6 +1,4 @@
 
-package Leetcode.Easy;
-
 import java.util.*;
 
 class Solution {

@@ -1,4 +1,3 @@
-package Leetcode.Easy;
 
 import java.util.ArrayList;
 
